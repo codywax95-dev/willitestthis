@@ -1,1 +1,1 @@
-{"seq":105,"ts":1777277236,"frames":[{"id":"c7d6b8c5056bba9a4ced1b320","seq":7,"status":"closed"}]}
+{"seq":106,"ts":1777277242,"frames":[{"id":"c3b3e495ec2df7e4cc15d4d17","seq":1,"status":"error","err":"dial tcp: lookup rr5---sn-t0a7lnee.googlevideo.com on 8.8.8.8:53: no such host"}]}
