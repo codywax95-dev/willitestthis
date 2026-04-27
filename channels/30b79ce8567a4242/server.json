@@ -1,1 +1,1 @@
-{"seq":6,"ts":1777278564,"frames":[{"id":"c0d826f4ff69b286f56e18ce4","seq":3,"status":"closed"},{"id":"c6b0fb6da7ee09f54b0d1b985","seq":3,"status":"error","err":"destination write failed"},{"id":"c6b0fb6da7ee09f54b0d1b985","seq":4,"status":"error","err":"destination write failed"},{"id":"c6b0fb6da7ee09f54b0d1b985","seq":5,"status":"error","err":"destination write failed"},{"id":"c6b0fb6da7ee09f54b0d1b985","seq":6,"status":"error","err":"destination write failed"}]}
+{"seq":7,"ts":1777278565,"frames":[{"id":"c6099f069b6fc1a90bc9afc47","seq":2,"status":"closed"}]}
