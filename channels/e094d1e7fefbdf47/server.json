@@ -1,1 +1,1 @@
-{"seq":97,"ts":1777277207,"frames":[{"id":"cadf55800ec07fbb2dfd483a2","seq":18,"status":"error","err":"destination read failed"},{"id":"cadf55800ec07fbb2dfd483a2","seq":19,"status":"closed"}]}
+{"seq":98,"ts":1777277213,"frames":[{"id":"cab70a065e9625fe613b7548f","seq":1,"status":"error","err":"dial tcp: lookup rr5---sn-t0a7lnee.googlevideo.com on 8.8.8.8:53: no such host"}]}
